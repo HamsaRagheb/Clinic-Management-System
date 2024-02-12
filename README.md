@@ -23,6 +23,7 @@ Admin Mode:
   -If the entered ID already exists, the system rejects the entry.
 
 3)Edit Patient Record:
+
   -By entering a patient ID, the system checks if the ID exists.
  
   -If valid, the user can edit patient information.
